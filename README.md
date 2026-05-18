@@ -175,7 +175,7 @@ Research prototype for:
 
 ## 👤 Author
 
-Deb M  
+Basu S 
 MS Healthcare Informatics (USA)  
 Focus: Reliable & trustworthy clinical AI systems
 
